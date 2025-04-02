@@ -1,5 +1,5 @@
 
-num = 8
+num = 10
 num2 = 20
 
 factorial = 1
