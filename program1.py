@@ -1,6 +1,6 @@
 
 num = 10
-num2 = 30
+num2 = 50
 
 factorial = 1
 
@@ -13,3 +13,4 @@ else:
        factorial = factorial*i
    print("The factorial of",num,"is",factorial)
 
+   print("The factorial of",num,"is",factorial)
