@@ -1,6 +1,6 @@
 
 num = 7
-num2 = 10
+num2 = 20
 
 factorial = 1
 
