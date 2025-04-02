@@ -1,5 +1,5 @@
 
-num = 7
+num = 60
 num2 = 10
 
 factorial = 1
