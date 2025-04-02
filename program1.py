@@ -1,5 +1,6 @@
 
 num = 7
+num2 = 10
 
 factorial = 1
 
